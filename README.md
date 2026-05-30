@@ -1,7 +1,7 @@
 # 🌍 Hi there, I'm Linda Anggara
 
 <p align="center">
-  <img src="https://readme-typing-effect.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2E9C7C&center=true&vCenter=true&width=600&lines=Data+Science+%26+ML+Engineer;Earth+%26+Environmental+Data+Enthusiast;Building+ML+for+a+better+planet" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2E9C7C&center=true&vCenter=true&width=600&lines=Data+Science+%26+ML+Engineer;Earth+%26+Environmental+Data+Enthusiast;Building+ML+for+a+better+planet" alt="Typing Animation" />
 </p>
 
 ---
@@ -34,8 +34,8 @@ I believe in solving real-world problems — from **air quality anomaly detectio
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lindanggara&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lindanggara&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=lindanggara&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=lindanggara&theme=radical" width="48%" />
 </p>
 
 ---
