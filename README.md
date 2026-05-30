@@ -1,46 +1,38 @@
-<h1 align="center">✨ Linda Anggara ✨</h1>
+# 👋 Hi there! I'm Linda Anggara
 
-<p align="center">
-  <i>Data Science & Machine Learning Engineer</i><br>
-  <b>🌍 Earth & Environmental Data Enthusiast</b>
+<p align="left">
+  <a href="https://www.linkedin.com/in/linda-anggara-wati-8829502a3/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/lindanggara">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-<div align="center">
-  
-### 👋 About Me
-  
-</div>
-
-> I'm a **Data Science & Machine Learning Engineer** with a deep passion for **Earth & Environmental Data**.  
-> I believe in solving **real-world problems** — from air quality anomaly detection in Surabaya to text mining and regression modeling.
-
-<br>
-
-<div align="center">
-  
-🔭 **Currently working on** → &nbsp; Text Mining & Regression Models  
-  
-🌱 **Currently learning** → &nbsp; Advanced PyCaret & Model Deployment  
-  
-🌍 **Focus area** → &nbsp; Environmental & Earth Data Science  
-
-</div>
-
-<br>
-
-<div align="center">
-  
-📫 **Reach me on LinkedIn** → &nbsp; [Linda Anggara Wati](https://www.linkedin.com/in/linda-anggara-wati-8829502a3/)
-
-</div>
+### 🧑‍💻 I'm a **Data Science & Machine Learning Engineer**
+### 🌍 I'm passionate about **Earth & Environmental Data**
+### 🔭 I solve real-world problems — from air quality anomaly detection to text mining & regression
+### 🌱 I'm currently learning **Advanced PyCaret & Model Deployment**
+### 📫 Let's connect and feel free to reach out to me!
 
 ---
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyCaret-00A1E0?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+### 🛠️ My Tech Stack
+
+**Data Science & ML**
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyCaret-00A1E0?style=flat-square&logo=python&logoColor=white" />
+</p>
+
+**Tools & Others**
+<p>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
 </p>
