@@ -1,46 +1,46 @@
+<h1 align="center">✨ Linda Anggara ✨</h1>
+
 <p align="center">
-  <img src="https://readme-typing-effect.herokuapp.com?font=Poppins&weight=700&size=28&pause=1000&color=2E9C7C&center=true&vCenter=true&width=600&lines=Hi+there+👋;I'm+Linda+Anggara;Data+Science+%26+ML+Engineer;Earth+%26+Environmental+Data+Enthusiast" />
+  <i>Data Science & Machine Learning Engineer</i><br>
+  <b>🌍 Earth & Environmental Data Enthusiast</b>
 </p>
 
 ---
 
 <div align="center">
   
-### 🌱 About Me
-
+### 👋 About Me
+  
 </div>
 
-<table align="center">
-  <tr>
-    <td>
-      <img src="https://cdn-icons-png.flaticon.com/512/1995/1995576.png" width="120" />
-    </td>
-    <td>
-      I'm a <b>Data Science & Machine Learning Engineer</b> with a deep passion for <b>🌍 Earth & Environmental Data</b>.
-      <br><br>
-      I believe in solving <b>real-world problems</b> — from air quality anomaly detection in Surabaya to text mining and regression modeling.
-    </td>
-  </tr>
-</table>
+> I'm a **Data Science & Machine Learning Engineer** with a deep passion for **Earth & Environmental Data**.  
+> I believe in solving **real-world problems** — from air quality anomaly detection in Surabaya to text mining and regression modeling.
 
 <br>
 
 <div align="center">
   
-| 🔭 Currently working on | 🌱 Currently learning | 🌍 Focus area |
-|:---:|:---:|:---:|
-| Text Mining & Regression Models | Advanced PyCaret & Model Deployment | Environmental & Earth Data Science |
+🔭 **Currently working on** → &nbsp; Text Mining & Regression Models  
+  
+🌱 **Currently learning** → &nbsp; Advanced PyCaret & Model Deployment  
+  
+🌍 **Focus area** → &nbsp; Environmental & Earth Data Science  
+
+</div>
 
 <br>
 
-📫 **Reach me on LinkedIn:** [Linda Anggara Wati](https://www.linkedin.com/in/linda-anggara-wati-8829502a3/)
+<div align="center">
+  
+📫 **Reach me on LinkedIn** → &nbsp; [Linda Anggara Wati](https://www.linkedin.com/in/linda-anggara-wati-8829502a3/)
 
 </div>
 
 ---
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Code-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/ML-PyCaret-00A1E0?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tools-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" />
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyCaret-00A1E0?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+</p>
