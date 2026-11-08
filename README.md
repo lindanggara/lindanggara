@@ -1,11 +1,11 @@
 <div align="center">
 
 <!-- Banner Atas (Gradasi Deep Blue ke Neon Cyan) -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:2563EB,100:06B6D4&height=200&section=header&text=Linda%20Anggara%20Wati&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:2563EB,100:06B6D4&height=200&section=header&text=Linda%20Anggara%20Wati&fontSize=45&fontColor=ffffff&font=poppins&animation=fadeIn&fontAlignY=35" width="100%" />
 
-<!-- Animasi Teks (Gradasi Cyan) -->
+<!-- Animasi Teks dengan Font Poppins (Elegan & Modern) -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=06B6D4&center=true&vCenter=true&width=600&lines=Data+Science+%26+ML+Engineer;Earth+%26+Environmental+Enthusiast;Building+ML+for+a+Better+Planet" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&pause=1000&color=06B6D4&center=true&vCenter=true&width=600&lines=Data+Science+%26+ML+Engineer;Earth+%26+Environmental+Enthusiast;Building+ML+for+a+Better+Planet" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -23,19 +23,19 @@
 
 ---
 
-<!-- Section About Me -->
-<h2 align="center">🌊 About Me</h2>
+<!-- Section About Me (Menggunakan Font Serif untuk Quote, Sans untuk Teks) -->
+<h2 align="center" style="font-family: 'Poppins', sans-serif; color: #2563EB;">🌊 About Me</h2>
 
-<table align="center" width="100%" style="border-collapse: collapse; border: none;">
+<table align="center" width="100%" style="border-collapse: collapse; border: none; font-family: 'Inter', sans-serif;">
   <tr>
     <td width="50%" valign="top">
-      <blockquote>
+      <blockquote style="font-family: 'Playfair Display', serif; font-size: 1.1em; color: #4B5563;">
         <i>"Turning environmental and complex data into meaningful insights — one model at a time."</i>
       </blockquote>
       <p>I'm a <b>Data Science & Machine Learning Engineer</b> with a deep passion for <b>Earth & Environmental Data</b>. I believe in solving real-world problems — from air quality anomaly detection to disaster prediction and recommendation systems.</p>
     </td>
     <td width="50%" valign="top">
-      <ul>
+      <ul style="list-style-type: none; padding-left: 0;">
         <li>🔭 <b>Building:</b> DisasterWatch & Recommendation Systems</li>
         <li>🌱 <b>Learning:</b> Advanced MLOps & Data Engineering</li>
         <li>🌍 <b>Focus:</b> Environmental & Earth Data Science</li>
@@ -48,13 +48,12 @@
 
 ---
 
-<!-- Section Tech Stack -->
-<h2 align="center">🛠️ Tech Stack & Tools</h2>
+<!-- Section Tech Stack (Font Clean) -->
+<h2 align="center" style="font-family: 'Poppins', sans-serif; color: #2563EB;">🛠️ Tech Stack & Tools</h2>
 
 <div align="center">
   
-**Data Science & ML**
-<br/>
+**Data Science & ML** <br/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
 <img src="https://img.shields.io/badge/PyCaret-00A1E0?style=for-the-badge&logo=python&logoColor=white" />
@@ -63,8 +62,7 @@
 
 <br/><br/>
 
-**Web & Deployment**
-<br/>
+**Web & Deployment** <br/>
 <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
@@ -75,19 +73,19 @@
 
 ---
 
-<!-- Section Projects (UI Card Grid) -->
-<h2 align="center">🏆 Featured Projects</h2>
+<!-- Section Projects (UI Card Grid dengan Font Judul Berbeda) -->
+<h2 align="center" style="font-family: 'Poppins', sans-serif; color: #2563EB;">🏆 Featured Projects</h2>
 
-<table align="center" width="100%" style="border-collapse: collapse; border: none;">
+<table align="center" width="100%" style="border-collapse: collapse; border: none; font-family: 'Inter', sans-serif;">
   <tr>
     <td width="50%" valign="top">
-      <h3>🌪️ <a href="https://github.com/lindanggara/DisasterWatch">DisasterWatch</a></h3>
+      <h3 style="font-family: 'Poppins', sans-serif;">🌪️ <a href="https://github.com/lindanggara/DisasterWatch" style="text-decoration: none; color: #06B6D4;">DisasterWatch</a></h3>
       <p><i>Platform analitik & prediksi dampak bencana Indonesia berbasis ML (Zero-Backend). Mengubah 44.000+ data BNPB menjadi wawasan prediktif.</i></p>
       <img src="https://img.shields.io/badge/Machine_Learning-06B6D4?style=flat-square" />
       <img src="https://img.shields.io/badge/Jupyter-2563EB?style=flat-square" />
     </td>
     <td width="50%" valign="top">
-      <h3>👗 <a href="https://github.com/lindanggara/fashion-recommendation-system">Fashion Recommender</a></h3>
+      <h3 style="font-family: 'Poppins', sans-serif;">👗 <a href="https://github.com/lindanggara/fashion-recommendation-system" style="text-decoration: none; color: #06B6D4;">Fashion Recommender</a></h3>
       <p><i>AI-powered fashion recommendation using Hybrid Recommendation (CF 60% + CBF 40%) with SVD and TF-IDF. Built with FastAPI & React.</i></p>
       <img src="https://img.shields.io/badge/React-06B6D4?style=flat-square" />
       <img src="https://img.shields.io/badge/FastAPI-2563EB?style=flat-square" />
@@ -95,13 +93,13 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🌫️ <a href="https://github.com/lindanggara/aeris-air-quality">Aeris Air Quality</a></h3>
+      <h3 style="font-family: 'Poppins', sans-serif;">🌫️ <a href="https://github.com/lindanggara/aeris-air-quality" style="text-decoration: none; color: #06B6D4;">Aeris Air Quality</a></h3>
       <p><i>Sistem Deteksi Anomali Kualitas Udara Kota Surabaya menggunakan Machine Learning (PyCaret & Isolation Forest) dengan standar ISPU KLHK.</i></p>
       <img src="https://img.shields.io/badge/PyCaret-06B6D4?style=flat-square" />
       <img src="https://img.shields.io/badge/Isolation_Forest-2563EB?style=flat-square" />
     </td>
     <td width="50%" valign="top">
-      <h3>⚙️ <a href="https://github.com/lindanggara/airflow-project">Airflow ETL Pipeline</a></h3>
+      <h3 style="font-family: 'Poppins', sans-serif;">⚙️ <a href="https://github.com/lindanggara/airflow-project" style="text-decoration: none; color: #06B6D4;">Airflow ETL Pipeline</a></h3>
       <p><i>Proyek praktikum pemrograman ETL, Monitoring, dan Error handling data open meteo.</i></p>
       <img src="https://img.shields.io/badge/Airflow-06B6D4?style=flat-square" />
       <img src="https://img.shields.io/badge/Python-2563EB?style=flat-square" />
@@ -109,13 +107,13 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🎙️ <a href="https://github.com/lindanggara/talent-talk">Talent Talk (AI Interview)</a></h3>
+      <h3 style="font-family: 'Poppins', sans-serif;">🎙️ <a href="https://github.com/lindanggara/talent-talk" style="text-decoration: none; color: #06B6D4;">Talent Talk (AI Interview)</a></h3>
       <p><i>AI-powered technical interview system with dynamic resume analysis, voice interaction, and automated evaluation reports.</i></p>
       <img src="https://img.shields.io/badge/Jupyter-06B6D4?style=flat-square" />
       <img src="https://img.shields.io/badge/AI-2563EB?style=flat-square" />
     </td>
     <td width="50%" valign="top">
-      <h3>📝 <a href="https://github.com/lindanggara/interview-textmining-platform">Text Mining Platform</a></h3>
+      <h3 style="font-family: 'Poppins', sans-serif;">📝 <a href="https://github.com/lindanggara/interview-textmining-platform" style="text-decoration: none; color: #06B6D4;">Text Mining Platform</a></h3>
       <p><i>Platform analisis teks wawancara (Text Mining) untuk mengekstrak wawasan dari data tidak terstruktur.</i></p>
       <img src="https://img.shields.io/badge/Python-06B6D4?style=flat-square" />
       <img src="https://img.shields.io/badge/NLP-2563EB?style=flat-square" />
@@ -125,10 +123,10 @@
 
 ---
 
-<!-- Section Stats (Gradasi Badge) -->
-<h2 align="center">📊 GitHub Highlights</h2>
+<!-- Section Stats -->
+<h2 align="center" style="font-family: 'Poppins', sans-serif; color: #2563EB;">📊 GitHub Highlights</h2>
 
-<div align="center">
+<div align="center" style="font-family: 'Inter', sans-serif;">
   <p><i>Ringkasan kontribusi saya:</i></p>
   
   <img src="https://img.shields.io/badge/Contributions-252_Total-06B6D4?style=for-the-badge&logo=github&logoColor=white" />
