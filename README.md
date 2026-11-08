@@ -1,11 +1,11 @@
 <div align="center">
 
-<!-- Banner Atas (Nuansa Biru) -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E3A8A,50:3B82F6,100:0F172A&height=200&section=header&text=Linda%20Anggara&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%" />
+<!-- Banner Atas (Gradasi Deep Blue ke Neon Cyan) -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:2563EB,100:06B6D4&height=200&section=header&text=Linda%20Anggara%20Wati&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%" />
 
-<!-- Animasi Teks (Biru Terang) -->
+<!-- Animasi Teks (Gradasi Cyan) -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Data+Science+%26+ML+Engineer;Earth+%26+Environmental+Enthusiast;Building+ML+for+a+Better+Planet" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=06B6D4&center=true&vCenter=true&width=600&lines=Data+Science+%26+ML+Engineer;Earth+%26+Environmental+Enthusiast;Building+ML+for+a+Better+Planet" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -17,7 +17,7 @@
 <a href="mailto:lindaanggaraw@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-<img src="https://komarev.com/ghpvc/?username=lindanggara&style=for-the-badge&color=3B82F6&label=PROFILE+VIEWS" />
+<img src="https://komarev.com/ghpvc/?username=lindanggara&style=for-the-badge&color=06B6D4&label=PROFILE+VIEWS" />
 
 </div>
 
@@ -75,7 +75,7 @@
 
 ---
 
-<!-- Section Projects -->
+<!-- Section Projects (UI Card Grid) -->
 <h2 align="center">🏆 Featured Projects</h2>
 
 <table align="center" width="100%" style="border-collapse: collapse; border: none;">
@@ -83,61 +83,61 @@
     <td width="50%" valign="top">
       <h3>🌪️ <a href="https://github.com/lindanggara/DisasterWatch">DisasterWatch</a></h3>
       <p><i>Platform analitik & prediksi dampak bencana Indonesia berbasis ML (Zero-Backend). Mengubah 44.000+ data BNPB menjadi wawasan prediktif.</i></p>
-      <img src="https://img.shields.io/badge/Machine_Learning-3B82F6?style=flat-square" />
-      <img src="https://img.shields.io/badge/Jupyter-1E3A8A?style=flat-square" />
+      <img src="https://img.shields.io/badge/Machine_Learning-06B6D4?style=flat-square" />
+      <img src="https://img.shields.io/badge/Jupyter-2563EB?style=flat-square" />
     </td>
     <td width="50%" valign="top">
       <h3>👗 <a href="https://github.com/lindanggara/fashion-recommendation-system">Fashion Recommender</a></h3>
       <p><i>AI-powered fashion recommendation using Hybrid Recommendation (CF 60% + CBF 40%) with SVD and TF-IDF. Built with FastAPI & React.</i></p>
-      <img src="https://img.shields.io/badge/React-3B82F6?style=flat-square" />
-      <img src="https://img.shields.io/badge/FastAPI-1E3A8A?style=flat-square" />
+      <img src="https://img.shields.io/badge/React-06B6D4?style=flat-square" />
+      <img src="https://img.shields.io/badge/FastAPI-2563EB?style=flat-square" />
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h3>🌫️ <a href="https://github.com/lindanggara/aeris-air-quality">Aeris Air Quality</a></h3>
       <p><i>Sistem Deteksi Anomali Kualitas Udara Kota Surabaya menggunakan Machine Learning (PyCaret & Isolation Forest) dengan standar ISPU KLHK.</i></p>
-      <img src="https://img.shields.io/badge/PyCaret-3B82F6?style=flat-square" />
-      <img src="https://img.shields.io/badge/Isolation_Forest-1E3A8A?style=flat-square" />
+      <img src="https://img.shields.io/badge/PyCaret-06B6D4?style=flat-square" />
+      <img src="https://img.shields.io/badge/Isolation_Forest-2563EB?style=flat-square" />
     </td>
     <td width="50%" valign="top">
       <h3>⚙️ <a href="https://github.com/lindanggara/airflow-project">Airflow ETL Pipeline</a></h3>
       <p><i>Proyek praktikum pemrograman ETL, Monitoring, dan Error handling data open meteo.</i></p>
-      <img src="https://img.shields.io/badge/Airflow-3B82F6?style=flat-square" />
-      <img src="https://img.shields.io/badge/Python-1E3A8A?style=flat-square" />
+      <img src="https://img.shields.io/badge/Airflow-06B6D4?style=flat-square" />
+      <img src="https://img.shields.io/badge/Python-2563EB?style=flat-square" />
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h3>🎙️ <a href="https://github.com/lindanggara/talent-talk">Talent Talk (AI Interview)</a></h3>
       <p><i>AI-powered technical interview system with dynamic resume analysis, voice interaction, and automated evaluation reports.</i></p>
-      <img src="https://img.shields.io/badge/Jupyter-3B82F6?style=flat-square" />
-      <img src="https://img.shields.io/badge/AI-1E3A8A?style=flat-square" />
+      <img src="https://img.shields.io/badge/Jupyter-06B6D4?style=flat-square" />
+      <img src="https://img.shields.io/badge/AI-2563EB?style=flat-square" />
     </td>
     <td width="50%" valign="top">
       <h3>📝 <a href="https://github.com/lindanggara/interview-textmining-platform">Text Mining Platform</a></h3>
       <p><i>Platform analisis teks wawancara (Text Mining) untuk mengekstrak wawasan dari data tidak terstruktur.</i></p>
-      <img src="https://img.shields.io/badge/Python-3B82F6?style=flat-square" />
-      <img src="https://img.shields.io/badge/NLP-1E3A8A?style=flat-square" />
+      <img src="https://img.shields.io/badge/Python-06B6D4?style=flat-square" />
+      <img src="https://img.shields.io/badge/NLP-2563EB?style=flat-square" />
     </td>
   </tr>
 </table>
 
 ---
 
-<!-- Section Stats -->
+<!-- Section Stats (Gradasi Badge) -->
 <h2 align="center">📊 GitHub Highlights</h2>
 
 <div align="center">
-  <p><i>Ringkasan kontribusi saya (Versi anti-error):</i></p>
+  <p><i>Ringkasan kontribusi saya:</i></p>
   
-  <img src="https://img.shields.io/badge/Contributions-252_Total-3B82F6?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Current_Streak-1_Day-1E3A8A?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Public_Repos-23-0A66C2?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Contributions-252_Total-06B6D4?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Current_Streak-1_Day-2563EB?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Public_Repos-23-0F172A?style=for-the-badge&logo=github&logoColor=white" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:3B82F6,100:1E3A8A&height=120&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:2563EB,100:0F172A&height=120&section=footer" width="100%"/>
 </div>
